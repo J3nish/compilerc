@@ -38,12 +38,12 @@ This is a lightweight desktop compiler and code editor built using Python and Tk
 #include <stdio.h>
 
 int main() {
-    int x;
-    printf("Enter a number: ");
-    fflush(stdout);  // Ensures the prompt prints immediately
-    scanf("%d", &x);
-    printf("You entered: %d\n", x);
-    return 0;
+int x;
+printf("Enter a number: ");
+fflush(stdout);  // Ensures the prompt prints immediately
+scanf("%d", &x);
+printf("You entered: %d\n", x);
+return 0;
 }
 
 ### Requirements
