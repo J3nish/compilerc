@@ -8,9 +8,9 @@ This is a lightweight desktop compiler and code editor built using Python and Tk
 
 - Code editor with input/output support
 - Compile and run code from the GUI
-- Accepts runtime input like `scanf` or `input()`
-- File management: open and save source code
-- Supports plotting match score graphs using `matplotlib` (if Python-based)
+- Accepts runtime input like `scanf`
+- Undo and Redo code functionalities
+- Copy,Cut paste operations
 
 ---
 
