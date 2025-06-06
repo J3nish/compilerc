@@ -19,8 +19,8 @@ This is a lightweight desktop compiler and code editor built using Python and Tk
 - Python 3.13
 - Tkinter for GUI
 - subprocess for executing compiled or interpreted code
-- matplotlib (optional, for chart generation)
 - os, threading (for system tasks and performance)
+- GCC compiler installed and set in environment variables
 
 ---
 
