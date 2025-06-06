@@ -53,6 +53,3 @@ Use fflush(stdout); in C code to ensure scanf() prompts are shown correctly.
 ```bash
 pip install -r requirements.txt
 
-
-![Screenshot 2025-06-06 165925](https://github.com/user-attachments/assets/bcafbf4e-eae2-45db-9625-e5fc3d55793e)
-
