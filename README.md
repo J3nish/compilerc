@@ -26,10 +26,12 @@ This is a lightweight desktop compiler and code editor built using Python and Tk
 
 ## How to Use
 
-1.Download and install the gcc compiler given in folder and add the gcc compiler to the environment variables ensuring it is accessible in system wherever it is called and used.
-2.Download requirements.txt or libraries mentioned in it.
-3.In Pycharm after downloading libraries, select interpreter Python 3.13.
-4.Use the code and ensure the above setup is completed.
+
+- Download and install the gcc compiler given in folder and add the gcc compiler to the environment variables ensuring it is accessible in system wherever it is called and used.
+- Download requirements.txt or libraries mentioned in it.
+- In Pycharm after downloading libraries, select interpreter Python 3.13.
+- Use the code and ensure the above setup is completed.
+
 
 //run the below mentioned code of c for scanf input.
 
