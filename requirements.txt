@@ -1,0 +1,5 @@
+tkinter
+subprocess
+threading
+time
+os
